@@ -35,7 +35,7 @@ public class Necklace {
 		}
 
 		if(compareList.contains(word2)) {
-			System.out.println("The two words belongs to the same necklace.");
+			System.out.println("The two words belong to the same necklace.");
 		} else {
 			System.out.println("The two words doesn't belong to the same necklace.");
 		}
